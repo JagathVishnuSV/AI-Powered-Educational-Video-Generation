@@ -1,4 +1,4 @@
-#!C:\Users\jagat\Downloads\AI-Powered Educational Video Generatio\myenv\Scripts\python.exe
+#!E:\SEMESTER_IV\GDG\AI-Powered-Educational-Video-Generation\myenv\Scripts\python.exe
 # -*- coding: utf-8 -*-
 from __future__ import print_function
 from __future__ import unicode_literals

@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\jagat\Downloads\AI-Powered Educational Video Generatio\myenv
+set VIRTUAL_ENV=E:\SEMESTER_IV\GDG\AI-Powered-Educational-Video-Generation\myenv
 
 if not defined PROMPT set PROMPT=$P$G
 

@@ -1,4 +1,4 @@
-#!C:\Users\jagat\Downloads\AI-Powered Educational Video Generatio\myenv\Scripts\python.exe
+#!E:\SEMESTER_IV\GDG\AI-Powered-Educational-Video-Generation\myenv\Scripts\python.exe
 from __future__ import print_function, unicode_literals
 
 import argparse
