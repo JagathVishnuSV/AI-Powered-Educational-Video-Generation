@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Educational Video Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>AI-Powered Educational Video Generator</h1>
+    <p>Enter a topic to generate educational visuals and videos using AI.</p>
+
+    <form id="videoForm">
+      <label for="topic">Choose an Educational Topic:</label>
+      <input type="text" id="topic" name="topic" required/>
+      <button type="submit">Generate Video</button>
+    </form>
+
+    <div id="status"></div>
+    <video id="videoOutput" controls style="display:none;"></video>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
